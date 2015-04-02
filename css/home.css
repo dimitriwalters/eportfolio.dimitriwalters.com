@@ -1,0 +1,93 @@
+@media (min-width: 1200px) {
+	#hi {
+		padding-left: 75px;
+	}
+}
+@media (max-width: 1199px) {
+	#hi {
+		padding-left: 50px;
+	}	
+}
+@media (max-width: 991px) {
+	#hi {
+		padding-left: 15px;
+	}	
+}
+@media (min-width: 768px) {
+	.container {
+		padding-top: 100px;
+	}
+	.about {
+		padding-top: 24px;
+		padding-left: 23px;
+		padding-bottom: 5000px;
+		margin-bottom: -5000px;
+	}
+	.projects {
+		padding-top: 24px;
+		padding-right: 23px;
+		padding-bottom: 5000px;
+		margin-bottom: -5000px;
+	}
+	.contact {
+		padding-left: 23px;
+		padding-bottom: 5020px;
+		margin-bottom: -5000px;
+	}
+	.resume {
+		padding-right: 23px;
+		padding-bottom: 5020px;
+		margin-bottom: -5000px;
+	}
+}
+
+@media (max-width: 767px) {
+	p {
+		margin-bottom: 0px;
+	}
+	.block {
+		padding-top: 10px;
+		padding-bottom: 20px;
+	}
+}
+
+body {
+	background-color: #59BECA;
+	color: white;
+}
+a {
+	color: white;
+}
+	a:hover {
+		color: white;
+	}
+::selection {
+	background-color: rgb(255, 58, 154);
+}
+::-moz-selection {
+	background-color: rgb(255, 58, 154);
+}
+.login-form {
+	padding: 0 15px;
+}
+.login-form:before {
+	border-color: transparent white transparent transparent;
+}
+.top, .bottom {
+	overflow: hidden;
+}
+.block:hover {
+	opacity: 0.5;
+}
+.about {
+	background-color: rgb(255, 198, 145);
+}
+.projects {
+	background-color: rgb(250, 164, 216);
+}
+.contact {
+	background-color: rgb(114, 206, 250);
+}
+.resume {
+	background-color: rgb(142, 209, 147);
+}
