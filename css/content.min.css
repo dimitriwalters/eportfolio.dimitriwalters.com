@@ -5,5 +5,5 @@ html,body{height:100%}#wrap{min-height:100%;height:auto;margin:0 auto -70px;padd
 .navbar-inverse .navbar-toggle:hover:before,.navbar-inverse .navbar-toggle:focus:before{color:#2e7c86}.page-header{margin-top:40px}#nav-about{background-color:#ffc691}
 #nav-about:hover{color:#a8805b}#nav-projects{background-color:#faa4d8}#nav-projects:hover{color:#925d7d}#nav-contact{background-color:#72cefa}#nav-contact:hover{color:#549abb}
 #nav-resume{background-color:#8ed193}#nav-resume:hover{color:#5e8d61}.active #nav-about,.active #nav-projects,.active #nav-contact,.active #nav-resume{color:white}
-#primary-content{margin-bottom:50px}.about-subheading{margin-top:30px}.text-muted a{color:#bdc3c7;margin:0 10px}.text-muted a:first-child{margin-left:0}
+#primary-content{margin-bottom:50px}.about-subheading{margin-top:30px}.text-muted a{color:#bdc3c7}.text-muted a:first-child{margin-left:0}
 .text-muted a:last-child{margin-right:0}.text-muted a:hover{color:#64696d}
